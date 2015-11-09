@@ -4,4 +4,4 @@
 * sj
 * veg
 * programming
-* color: red
+* color: blue-red-white
